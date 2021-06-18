@@ -2,15 +2,16 @@
 
 # Table Of Content
 
--   HTML
--   CSS
--   Responsive Web
--   Bootstrap
--   JavaScript
--   jQuery
--   PHP
--   WordPress
+-   [HTML](#html)
+-   [CSS](#css)
+-   [Responsive Web](#responsive)
+-   [Bootstrap](#bootstrap)
+-   [JavaScript](#js)
+-   [jQuery](#jq)
+-   [PHP](#php)
+-   [WordPress](#wp)
 
+<a name="html"></a>
 ## HTML
 
 #### Table Of Content
@@ -28,6 +29,7 @@
 - Styles, Inline-style, Best Practices
 - Keyframes
 
+<a name="css"></a>
 ## CSS
 #### Table Of Content
 - Introduction
@@ -46,8 +48,16 @@
 - Display Flex, Grid
 - Animation
 - Media query
-- Responsive Web Design
 
+<a name='responsive'></a>
+## Responsive Web Design
+- Media Query Min Width
+- Media Query Max Width
+- Responsiveness
+- Projects
+
+
+<a name="bootstrap"></a>
 ## Bootstrap
 #### Table Of Content
 - Introduction
@@ -57,6 +67,7 @@
 - Tables, Forms,
 -
 
+<a name="js"></a>
 ## JavaScript
 #### Table Of Content
 - Introduction
@@ -73,6 +84,7 @@
 - DOM Selectors
 - DOM Events
 
+<a name="jq"></a>
 ## jQuery
 #### Table Of Content
 - Introduction
@@ -82,6 +94,7 @@
 - Animation
 - Plugins
 
+<a name="php"></a>
 ## PHP
 #### Table Of Content
 - Introduction, Installation
@@ -97,14 +110,14 @@
 - Loop
 - Form Validation
 
-
+<a name="wp"></a>
 ## WordPress
 #### Table Of Content
 - Introduction, Installation
 - Dashboard
 - Theme, Plugins
 - Theme Customization
- - Elementor, Divi
+    - Elementor, Divi
 - Theme Development
     - Basic Structure
     - Enqueue
