@@ -104,14 +104,14 @@
 - Dashboard
 - Theme, Plugins
 - Theme Customization
- - Visual Builder- Elementor, Divi
+ - Elementor, Divi
 - Theme Development
- - Basic Structure
- - Enqueue
- - Theme Support Functions Basics
- - Template Hierarchy
- - Header, Footer, Sidebar
- - Posts, Loop, Single Post, Category Posts
- - Custom Post Type
- - Custom Meta Box
- - Child Themes
+    - Basic Structure
+    - Enqueue
+    - Theme Support Functions Basics
+    - Template Hierarchy
+    - Header, Footer, Sidebar
+    - Posts, Loop, Single Post, Category Posts
+    - Custom Post Type
+    - Custom Meta Box
+    - Child Themes
