@@ -28,6 +28,7 @@
 - Forms
 - Styles, Inline-style, Best Practices
 - Keyframes
+- Others
 
 <a name="css"></a>
 ## CSS
